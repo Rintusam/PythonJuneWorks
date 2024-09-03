@@ -1,0 +1,50 @@
+print()
+
+input()
+
+min()
+
+max()
+
+
+
+
+
+
+class str:
+
+    def capitalize():
+
+    def upper():
+
+    def lower():
+
+    def casefold():
+
+    def index()
+
+    def isalpha():
+
+    def isdigit():
+
+    def isalnum():
+
+    def count(char)
+
+    def startswith()
+
+    def endswith()
+
+    def strip()
+    def lstrip
+    def rstrip
+
+    def replace()
+
+    def sorted(iterable,reverse==false)     ascending order.....    
+    def sorted(iterable,reverse==True)     decending order.....
+
+
+    
+
+    
