@@ -8,4 +8,7 @@ def add_numbers(n1,n2,n3):
 
 print(add_numbers(100,200,300)) # python will run the last function
 
-print(add_numbers(400,300))
+print(add_numbers(400,300,300))#both the print is performd by the last function
+
+
+
